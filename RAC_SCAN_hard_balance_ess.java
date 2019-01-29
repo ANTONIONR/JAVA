@@ -8,7 +8,7 @@
  CREATE         : 22.10.15
  LAST MODIFIED  : 06.01.18
  USAGE          : Example of connection using SCAN, explicit IPs
- CALL SYNTAXIS  : 
+ CALL SYNTAXIS  : java balanceo2
  [NOTES]        :    
 
 
