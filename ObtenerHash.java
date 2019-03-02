@@ -3,8 +3,8 @@
 --  FILE NAME      : ObtenerHash.java
 --  DESCRIPTION    : Get the password in hash for Oracle ( all versions <= 11g )
 --  AUTHOR         : Antonio NAVARRO - /\/\/
---  CREATE         : 28.10.99
---  LAST MODIFIED  : 28.10.99
+--  CREATE         : 28.10.15
+--  LAST MODIFIED  : 28.10.15
 --  USAGE          : This script inputs two parameters. Parameter 1 is the username
 --                                                      Parameter 2 is the password
 --                   f (username, password) -> hash
